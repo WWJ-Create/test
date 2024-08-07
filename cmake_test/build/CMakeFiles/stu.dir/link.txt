@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/stu.dir/tea_stu.cc.o -o stu  -Wl,-rpath,/home/pub/cmake_test/build/lib1: lib1/libLIB1.so 

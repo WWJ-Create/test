@@ -1,0 +1,14 @@
+/home/pub/cmake_test/build/CMakeFiles/stu.dir
+/home/pub/cmake_test/build/CMakeFiles/edit_cache.dir
+/home/pub/cmake_test/build/CMakeFiles/rebuild_cache.dir
+/home/pub/cmake_test/build/CMakeFiles/list_install_components.dir
+/home/pub/cmake_test/build/CMakeFiles/install.dir
+/home/pub/cmake_test/build/CMakeFiles/install/local.dir
+/home/pub/cmake_test/build/CMakeFiles/install/strip.dir
+/home/pub/cmake_test/build/lib1/CMakeFiles/LIB1.dir
+/home/pub/cmake_test/build/lib1/CMakeFiles/edit_cache.dir
+/home/pub/cmake_test/build/lib1/CMakeFiles/rebuild_cache.dir
+/home/pub/cmake_test/build/lib1/CMakeFiles/list_install_components.dir
+/home/pub/cmake_test/build/lib1/CMakeFiles/install.dir
+/home/pub/cmake_test/build/lib1/CMakeFiles/install/local.dir
+/home/pub/cmake_test/build/lib1/CMakeFiles/install/strip.dir

@@ -1,0 +1,2 @@
+/home/pub/cmake_test/INSTALL/bin/libLIB1.so
+/home/pub/cmake_test/INSTALL/bin/stu
